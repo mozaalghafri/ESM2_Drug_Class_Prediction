@@ -18,6 +18,8 @@ Try the deployed application on Hugging Face Spaces:
 
 https://huggingface.co/spaces/Malghafri/esm2-drug-target-predictor
 
+<img width="622" height="551" alt="Screenshot 2026-05-14 at 10 57 37 AM" src="https://github.com/user-attachments/assets/c262c60b-cbfb-49d3-9d19-7c9eb1366336" />
+
 ---
 
 ## Features
