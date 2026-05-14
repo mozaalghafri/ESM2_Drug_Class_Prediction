@@ -12,6 +12,14 @@ The model predicts whether a protein belongs to:
 
 ---
 
+## Live Demo
+
+Try the deployed application on Hugging Face Spaces:
+
+https://huggingface.co/spaces/Malghafri/esm2-drug-target-predictor
+
+---
+
 ## Features
 
 - Protein sequence retrieval using UniProt API
